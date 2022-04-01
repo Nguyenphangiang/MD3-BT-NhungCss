@@ -1,0 +1,12 @@
+#element2{
+    color: aquamarine;
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: antiquewhite;
+}
+#element3{
+    color: darkblue;
+    border: 1px solid red;
+    background-color: beige;
+    text-align: right;
+}
